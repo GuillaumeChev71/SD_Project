@@ -1,6 +1,6 @@
 # SD_Projet
 
-Sujet 7 : Gestion de comptes bancaires - 1 ´etudiant
+Sujet 7 : Gestion de comptes bancaires - 1 étudiant
 On chercher à développer un système de gestion de comptes bancaires à l’aide d’Akka. Un banquier
 est en charge de plusieurs comptes, et travaille dans une banque. Lorsqu’un client se présente à la
 banque pour déposer ou retirer de l’argent, la banque doit transmettre la demande du client au
