@@ -64,9 +64,9 @@ public class App {
 
         //TEST
 
-        String url = "jdbc:oracle:thin:@butor.iem:1521/ENSB2021";
-        String user = "gc885074";
-        String mdp = "gc885074";
+        String url = "adresse_serveur";
+        String user = "user";
+        String mdp = "mdp";
         Connection con = null;
         Connection con1 = null;
 
