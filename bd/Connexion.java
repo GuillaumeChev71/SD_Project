@@ -13,9 +13,9 @@ public class Connexion {
 
     public void main(String[] args) {
 
-        url = "jdbc:oracle:thin:@butor.iem:1521/ENSB2021";
-        user = "gc885074";
-        mdp = "ch098407";
+        url = "adresse_serveur";
+        user = "user";
+        mdp = "mdp";
 
         try {
             Class.forName("oracle.jdbc.driver.OracleDriver");
